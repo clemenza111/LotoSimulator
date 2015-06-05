@@ -14,7 +14,7 @@ import javax.swing.JLabel;
 import java.awt.Font;
 
 public class LotoMainForm {
-
+//commit first change
 	private final static String newline = "\n";
 	private JFrame frmLotoStatistics;
 	private JTextArea txtAreaDrawnNumbers;
